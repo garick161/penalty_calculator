@@ -1,5 +1,4 @@
 $Неустойка = \frac{ сумма\;задолженности * ставка ЦБ }{ Количество дней в году }$
 
-$$\underbrace{a+b+\cdots+j}_{10}$$
-
+$ J_ \ alpha (x) = \ sum_ {m = 0} ^ \ infty \ frac {(- 1) ^ m} {m! \ Gamma (m + \ alpha + 1)} {\ left ({\ frac { x} {2}} \ right)} ^ {2m + \ alpha} \ text {, пример встроенной формулы} $
 
