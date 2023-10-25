@@ -1,1 +1,1 @@
-$P(A \mid B) = \frac{ P(B \mid A) P(A) }{ P(B) }$
+$Неустойка = \frac{ P(B \mid A) P(A) }{ P(B) }$
