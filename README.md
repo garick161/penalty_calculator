@@ -29,6 +29,14 @@ $$Неустойка = \dfrac{ сумма\quad задолженности \quad 
 ![table_in](https://github.com/garick161/penalty_calculator/assets/114688542/b1a354a9-1939-44e4-8b20-9f720da6016f)
 
 
+Пример таблицы - результат:
+
+![table_out](https://github.com/garick161/penalty_calculator/assets/114688542/2ebcc734-9c1a-4c57-a8e5-2d1c342bb31d)
+
+
+
+
+
 
 
 
