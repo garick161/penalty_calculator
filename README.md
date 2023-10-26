@@ -24,6 +24,11 @@ $$Неустойка = \dfrac{ сумма\quad задолженности \quad 
 Данные о ключевой ставке будут получатся с сайта ЦБ:\
 [Ключевая ставка Банка России | Банк России (cbr.ru)](https://cbr.ru/hd_base/KeyRate/)https://cbr.ru/hd_base/KeyRate/
 
+Пример исходной таблицы от пользователя:
+
+![table_in](https://github.com/garick161/penalty_calculator/assets/114688542/b1a354a9-1939-44e4-8b20-9f720da6016f)
+
+
 
 
 
