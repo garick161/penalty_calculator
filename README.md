@@ -5,3 +5,4 @@ $$ x_{1}, x_{2} = {-b \pm \sqrt{D} \over 2a} $$
 $$ D = b^2 - 4ac$$
 
 
+a^{5} \left(\dfrac{b}{c}\right)^{\dfrac{2}{3}}
