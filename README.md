@@ -56,7 +56,8 @@ $$Неустойка = \dfrac{ сумма\quad задолженности \quad 
 - `requirements.txt` - полный список используемых библиотек
 
 # Логика работы кратко
-Логика работы для пользователя будет поробно расмотренна в руководстве пользователя https://drive.google.com/file/d/1ktJJ7XNGZvlxrJYpV0VqhO2IJeTXtYhT/view?usp=sharing 
+Логика работы для пользователя будет поробно расмотренна в руководстве пользователя 
+https://drive.google.com/file/d/1ktJJ7XNGZvlxrJYpV0VqhO2IJeTXtYhT/view?usp=sharing 
 
 
 После запуска приложения пользователю неоходимо выбрать исходную таблицу в любом доступном формате Excel.
