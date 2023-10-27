@@ -33,7 +33,7 @@ $$Неустойка = \dfrac{ сумма\quad задолженности \quad 
 
 ![table_out](https://github.com/garick161/penalty_calculator/assets/114688542/26cc7215-d926-4c27-aaee-17d1ce6edc92)
 
-В качестве интерфейса взаимодействия пользователя было выбрано обычное диалоговое окно Windows
+В качестве интерфейса взаимодействия пользователя было выбрано диалоговое окно Windows
 
 ![veiw_window_calc](https://github.com/garick161/penalty_calculator/assets/114688542/0d56c06d-23b3-489d-86e2-9dd13db42a07)
 
