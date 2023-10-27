@@ -57,7 +57,7 @@ $$Неустойка = \dfrac{ сумма\quad задолженности \quad 
 
 # Логика работы кратко
 Логика работы для пользователя будет подробно расмотренна в руководстве пользователя 
-https://drive.google.com/file/d/1ktJJ7XNGZvlxrJYpV0VqhO2IJeTXtYhT/view?usp=sharing 
+https://drive.google.com/file/d/156DbUxLAj2Oeho4AcqCxlCchslWpW6xD/view?usp=sharing
 
 
 После запуска приложения пользователю неоходимо выбрать исходную таблицу в любом доступном формате Excel.
@@ -69,7 +69,7 @@ https://drive.google.com/file/d/1ktJJ7XNGZvlxrJYpV0VqhO2IJeTXtYhT/view?usp=shari
 Программа расчитывает период отсрочки согласно количеству дней по договору. Также выполняет агрегации и необходимые расчеты для получния финального формата таблицы, указанного заказчиком. Сохраняет в формате Excel.
 
 # Руководство пользователя
-https://drive.google.com/file/d/1ktJJ7XNGZvlxrJYpV0VqhO2IJeTXtYhT/view?usp=sharing
+https://drive.google.com/file/d/156DbUxLAj2Oeho4AcqCxlCchslWpW6xD/view?usp=sharing
 
 
 
