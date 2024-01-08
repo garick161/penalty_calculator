@@ -69,7 +69,7 @@ https://drive.google.com/file/d/156DbUxLAj2Oeho4AcqCxlCchslWpW6xD/view?usp=shari
 Программа расчитывает период отсрочки согласно количеству дней по договору. Также выполняет агрегации и необходимые расчеты для получния финального формата таблицы, указанного заказчиком. Сохраняет в формате Excel.
 
 # Руководство пользователя
-https://drive.google.com/file/d/156DbUxLAj2Oeho4AcqCxlCchslWpW6xD/view?usp=sharing
+https://drive.google.com/file/d/156DbUxLAj2Oeho4AcqCxlCchslWpW6xD/view?usp=sharing 
 
 
 
